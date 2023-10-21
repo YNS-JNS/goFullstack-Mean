@@ -56,8 +56,8 @@ To begin exploring the E-Commerce Web Application, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/YNS-JNS/gofullstack-mean.git
-   cd gofullstack-mean
+   git clone https://github.com/YNS-JNS/goFullstack-Mean.git
+   cd goFullstack-Mean
 
 2. **Setting up the Backend:**
 
